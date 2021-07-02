@@ -1,0 +1,14 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-color: tomato;
+}
+
+#m_can{
+border: solid;
+background-color: white;
+}
